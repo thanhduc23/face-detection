@@ -1,2 +1,2 @@
-## npm install
-##npx expo start    
+## run: npm install
+## run: npx expo start    
